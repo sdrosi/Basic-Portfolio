@@ -98,8 +98,11 @@ footer {
     border-width: 10px 0px 0px 0px;
     border-color: #4aaaa5;
     font-family: "Georgia, 'Times New Roman', Times, serif";
-    padding: 20px 10px 0px 0px;
+    padding: 15px;
     width: 100%;
+    position: relative;
+    left: 0;
+    bottom: 0;
 }
 
 .container {
