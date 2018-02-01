@@ -12,7 +12,7 @@ header {
     border-style: solid;
     border-width: 0px 0px 1px 0px;
     font-family: "Georgia, 'Times New Roman', Times, serif";
-    padding: 30px 10px 0px 0px;
+    padding: 30px 30px 0px 0px;
 }
 
 heading {
@@ -106,8 +106,7 @@ footer {
 }
 
 .container {
-    position: relative;
-    overflow: inherit;
+    width: 1065px;
 }
 
 #one {
@@ -128,4 +127,12 @@ footer {
 
 #five {
     float: left
+}
+figcaption {
+    background-color: #4aaaa5;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+    top: -39px;
+    padding: 5px;
 }
